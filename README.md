@@ -1,6 +1,11 @@
-- 👋 Hi, I’m NerdXD
-- 👀 I’m interested in Spigot development and Java
-- 🌱 I’m currently learning Minecraft development
+✨Hello! I am NerdXD✨
+
+🎉 I am a student programmer that specializes in Java because Java is amazing!!!🎉 
+
+I am also a student Minecraft dev (in using Spigot, and Modding) ⭐
+
+I hope to work at Minecraft one day because Mincraft has made my life SO MUCH FUN!!!
+
 
 <!---
 NerdXD/NerdXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
